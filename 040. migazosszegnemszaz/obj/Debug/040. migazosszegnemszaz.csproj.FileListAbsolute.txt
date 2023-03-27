@@ -1,0 +1,7 @@
+C:\Users\gratt\source\repos\040. migazosszegnemszaz\040. migazosszegnemszaz\bin\Debug\_040.migazosszegnemszaz.exe.config
+C:\Users\gratt\source\repos\040. migazosszegnemszaz\040. migazosszegnemszaz\bin\Debug\_040.migazosszegnemszaz.exe
+C:\Users\gratt\source\repos\040. migazosszegnemszaz\040. migazosszegnemszaz\bin\Debug\_040.migazosszegnemszaz.pdb
+C:\Users\gratt\source\repos\040. migazosszegnemszaz\040. migazosszegnemszaz\obj\Debug\040. migazosszegnemszaz.csproj.CoreCompileInputs.cache
+C:\Users\gratt\source\repos\040. migazosszegnemszaz\040. migazosszegnemszaz\obj\Debug\_040.migazosszegnemszaz.exe
+C:\Users\gratt\source\repos\040. migazosszegnemszaz\040. migazosszegnemszaz\obj\Debug\_040.migazosszegnemszaz.pdb
+C:\Users\gratt\source\repos\040. migazosszegnemszaz\040. migazosszegnemszaz\obj\Debug\040. migazosszegnemszaz.csproj.AssemblyReference.cache
